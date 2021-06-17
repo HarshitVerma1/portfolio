@@ -27,7 +27,7 @@ const aboutMe = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 

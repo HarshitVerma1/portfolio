@@ -20,7 +20,7 @@ const progamingKnow = () => {
                 <div>
                     <img src="./images/languagesknowicons/html.png" alt="icons" />
                     <img src="./images/languagesknowicons/css.png" alt="icons" />
-                    <img src="./images/languagesknowicons/js.jpg" alt="icons" />
+                    <img src="./images/languagesknowicons/js.png" alt="icons" />
                     <img src="./images/languagesknowicons/sass.png" alt="icons" />
                     <img src="./images/languagesknowicons/react.png" alt="icons" />
                     <img src="./images/languagesknowicons/jquery.png" alt="icons" />
@@ -29,9 +29,8 @@ const progamingKnow = () => {
                 <div>
                     <img src="./images/languagesknowicons/php.png" alt="icons" />
                     <img src="./images/languagesknowicons/java.png" alt="icons" />
-                    <img src="./images/languagesknowicons/android_logo.png" alt="icons" />
+                    <img src="./images/languagesknowicons/android.png" alt="icons" />
                     <img src="./images/languagesknowicons/flutter.png" alt="icons" />
-                    <img src="./images/languagesknowicons/phpmyadmin.svg" alt="icons" />
                     <img src="./images/languagesknowicons/wordpress.png" alt="icons" />
 
                 </div>

@@ -23,24 +23,21 @@ const mainBanner = function () {
             style={{ filter: "invert(1)" }}
           />
           <img
-            src="/images/languagesknowicons/stackoverflowicon.png"
+            src="/images/languagesknowicons/stackoverflow.png"
             alt="social media icons"
           />
           <img
             src="/images/languagesknowicons/codepen.png"
             alt="social media icons"
+            style={{ filter: "invert(1)" }}
           />
           <img
             src="/images/languagesknowicons/gmail.png"
             alt="social media icons"
           />
-          <img
-            src="/images/languagesknowicons/github.png"
-            alt="social media icons"
-          />
         </div>
       </div>
-    </div>
+    </div >
   );
 };
 

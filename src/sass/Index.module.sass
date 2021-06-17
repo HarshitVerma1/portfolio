@@ -23,7 +23,7 @@ h1,
 h2,
 h3,
 h4, a
-    color: $primeryColor
+    color: $primeryColorSecondry
 
 a
     text-decoration: none
@@ -48,6 +48,7 @@ button
 
 // main nvigation start
 .MainNav_PO
+
     width: 100vw
     position: absolute
     z-index: 10001
@@ -94,7 +95,8 @@ button
             justify-content: space-around
 
             & img
-                width: 40px
+                width: 60px
+                height: 60px
 
 // main banner ends here
 
@@ -114,6 +116,7 @@ button
         .aboutMain_Info_PO
             margin-left: 20px
             line-height: 1.6
+
             p,h1
                 margin-top: 10px
             .button_section_BD
@@ -124,6 +127,8 @@ button
 
 // progaming section starts here
 .proKnow_BD
+    background: $backgroundColor
+    padding: 20px 0px 20px 0px
     display: flex
     justify-content: center
     align-items: center
@@ -136,10 +141,10 @@ button
         width: auto
         & img
             width: 60px
-            height: 65px
+            height: 60px
             border-radius: 20px
             background: $primeryColor
-            margin: 20px
+            margin: 5px
             padding: 10px
 
     .slidbuttons
@@ -155,4 +160,31 @@ button
             color: $primeryColorSecondry
 // progaming section ends here
 
-// exprence section
+// exprence section start here
+.mainDiv_Work_PD
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    .design_Div_BD
+        margin-top: 30px
+        background-color: $primeryColor
+        display: flex
+        flex-direction: column
+        justify-content: center
+        align-items: center
+        .section_div_PO
+            display: flex
+            .backgroundDiv_PO
+                display: flex
+                flex-direction: column
+                align-items: center
+                width: 300px
+                padding: 20px
+                margin: 20px 20px 20px 20px
+
+                &:hover
+                    background-color: $backgroundColor
+                    transition-duration: .5s
+
+// exprence section ends here
