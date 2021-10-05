@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### <h1 align="center">Hi, I'm Neeraj Singh </h1> <p align="center"> <img src = "https://readme-typing-svg.herokuapp.com/?lines=A+self+taught+programmer+always;learning+new+things+and+Technologies;"> </p> <h1 align="center"><a href="#"><img width="370" height="220" src="coding.gif"/></a></h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj Singh </h1> <p align="center"> <img src = "https://readme-typing-svg.herokuapp.com/?lines=A+self+taught+programmer+always;learning+new+things+and+Technologies;"> </p> <h1 align="center"><a href="#"></a></h1>
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
